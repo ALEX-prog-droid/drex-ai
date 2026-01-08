@@ -27,7 +27,7 @@
 ***Made on Earth by 𝐃𝐫𝐞𝐱 𝐌𝐨𝐬𝐞***
 
 
-***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
+***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)note that baileys is no longer maintained by adiwajshing ***
 
 ## FEATURES
 This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
